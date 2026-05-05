@@ -1,0 +1,26 @@
+{
+    "tasks": [
+        {
+            "title": "Fazer compras",
+            "description": "Comprar leite, pão e ovos",
+            "owner": "Ana",
+            "status": "Concluido",
+            "comments": [
+                "Comentário 1",
+                "Comentário 2"
+            ],
+            "id": 1
+        },
+        {
+            "title": "Fazer compras",
+            "description": "Comprar leite, pão e ovos",
+            "owner": "João",
+            "status": "Pendente",
+            "comments": [
+                "Comentário 1",
+                "Comentário 2"
+            ],
+            "id": 2
+        }
+    ]
+}
